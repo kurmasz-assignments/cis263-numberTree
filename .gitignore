@@ -1,0 +1,9 @@
+a.out
+*.o
+*~
+*.dSYM
+
+studentTest
+profTest
+
+cmake-build-debug
